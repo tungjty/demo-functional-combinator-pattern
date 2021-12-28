@@ -1,0 +1,17 @@
+combinatorpattern/Customer.class
+stream/_Stream$Person.class
+stream/_Stream$Gender.class
+functionalinterface/_Predicate.class
+functionalinterface/_Function.class
+combinatorpattern/CustomerRegistrationValidator$ValidationResult.class
+combinatorpattern/CustomerValidationService.class
+stream/_Stream.class
+combinatorpattern/CustomerRegistrationValidator.class
+imperative/Main$Person.class
+functionalinterface/_Consumer.class
+imperative/Main.class
+combinatorpattern/Main.class
+functionalinterface/_Consumer$Customer.class
+optional/_Optional.class
+functionalinterface/_Supplier.class
+imperative/Main$Gender.class
